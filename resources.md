@@ -1,4 +1,10 @@
 # Plan
+- <b>01-12.02</b> [A.I. From Zero to Hero - course in Polish](https://github.com/DanBanasiak/30-Days-Of-MachineLearning/blob/master/resources.md#ai-from-zero-to-hero---course-in-polish)
+- <b>08-21.02</b> [Machine Learning by Andrew Ng, Stanford University](https://github.com/DanBanasiak/30-Days-Of-MachineLearning/blob/master/resources.md#machine-learning-by-andrew-ng-stanford-university)
+- <b>15-21.02</b> [Python for Data Science and Machine Learning Bootcamp](https://github.com/DanBanasiak/30-Days-Of-MachineLearning/blob/master/resources.md#python-for-data-science-and-machine-learning-bootcamp)
+- <b>22-28.02</b> [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://github.com/DanBanasiak/30-Days-Of-MachineLearning/blob/master/resources.md#machine-learning-a-z-hands-on-python--r-in-data-science)
+
+<br/><br/><br/>
 
 ## [A.I. From Zero to Hero - course in Polish](https://szkolachmury.pl/a-i-od-zera-do-bohatera/)
 - <b>01.02</b> 1: Introduction
@@ -36,6 +42,37 @@
 - Recommender Systems
 - Large Scale Machine Learning
 - Application Example: Photo OCR
+
+<br/><br/>
+
+## [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+- Course Introduction
+- Environment Set-Up
+- Jupyter Overview
+- Python Crash Course
+- Python for Data Analysis - NumPy
+- Python for Data Analysis - Pandas
+- Python for Data Analysis - Pandas Exercises
+- Python for Data Visualization - Matplotlib
+- Python for Data Visualization - Seaborn
+- Python for Data Visualization - Pandas Built-in Data Visualization
+- Python for Data Visualization - Plotly and Cufflinks
+- Python for Data Visualization - Geographical Plotting
+- Data Capstone Project
+- Introduction to Machine Learning
+- Linear Regression
+- Cross Validation and Bias-Variance Trade-Off
+- Logistic Regression
+- K Nearest Neighbors
+- Decision Trees and Random Forests
+- Support Vector Machines
+- K Means Clustering
+- Principal Component Analysis
+- Recommender Systems
+- Natural Language Processing
+- Neural Nets and Deep Learning
+- Big Data and Spark with Python
+- BONUS SECTION: THANK YOU!
 
 <br/><br/>
 
@@ -85,34 +122,3 @@
     - Model Selection
     - XGBoost
 - Bonus Lectures
-
-<br/><br/>
-
-## [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
-- Course Introduction
-- Environment Set-Up
-- Jupyter Overview
-- Python Crash Course
-- Python for Data Analysis - NumPy
-- Python for Data Analysis - Pandas
-- Python for Data Analysis - Pandas Exercises
-- Python for Data Visualization - Matplotlib
-- Python for Data Visualization - Seaborn
-- Python for Data Visualization - Pandas Built-in Data Visualization
-- Python for Data Visualization - Plotly and Cufflinks
-- Python for Data Visualization - Geographical Plotting
-- Data Capstone Project
-- Introduction to Machine Learning
-- Linear Regression
-- Cross Validation and Bias-Variance Trade-Off
-- Logistic Regression
-- K Nearest Neighbors
-- Decision Trees and Random Forests
-- Support Vector Machines
-- K Means Clustering
-- Principal Component Analysis
-- Recommender Systems
-- Natural Language Processing
-- Neural Nets and Deep Learning
-- Big Data and Spark with Python
-- BONUS SECTION: THANK YOU!
