@@ -1,9 +1,12 @@
 # Plan
-- [How to Start Learning Data Science for Free](https://lambdaschool.com/the-commons/how-to-start-learning-data-science-for-free)
+## Core courses
 - [A.I. From Zero to Hero - course in Polish](https://github.com/DanBanasiak/30-Days-Of-MachineLearning/blob/master/resources.md#ai-from-zero-to-hero---course-in-polish)
-- [Machine Learning by Andrew Ng, Stanford University](https://github.com/DanBanasiak/30-Days-Of-MachineLearning/blob/master/resources.md#machine-learning-by-andrew-ng-stanford-university)
 - [Python for Data Science and Machine Learning Bootcamp](https://github.com/DanBanasiak/30-Days-Of-MachineLearning/blob/master/resources.md#python-for-data-science-and-machine-learning-bootcamp)
 - [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://github.com/DanBanasiak/30-Days-Of-MachineLearning/blob/master/resources.md#machine-learning-a-z-hands-on-python--r-in-data-science)
+
+## Aditional resources
+- [Machine Learning by Andrew Ng, Stanford University](https://github.com/DanBanasiak/30-Days-Of-MachineLearning/blob/master/resources.md#machine-learning-by-andrew-ng-stanford-university)
+- [How to Start Learning Data Science for Free](https://lambdaschool.com/the-commons/how-to-start-learning-data-science-for-free)
 
 <br/><br/><br/>
 
