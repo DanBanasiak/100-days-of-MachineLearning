@@ -1,4 +1,9 @@
 # Plan
+## Basic level: Python
+1. [The Python Mega Course: Build 10 Real World Applications](https://www.udemy.com/course/the-python-mega-course/)
+1. [The Complete Python 3 Course: Beginner to Advanced!](https://www.udemy.com/course/python-complete/)
+1. [Learn Python Programming Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course/)
+
 ## Core courses
 - [A.I. From Zero to Hero - course in Polish](https://github.com/DanBanasiak/30-Days-Of-MachineLearning/blob/master/resources.md#ai-from-zero-to-hero---course-in-polish)
 - [Python for Data Science and Machine Learning Bootcamp](https://github.com/DanBanasiak/30-Days-Of-MachineLearning/blob/master/resources.md#python-for-data-science-and-machine-learning-bootcamp)
