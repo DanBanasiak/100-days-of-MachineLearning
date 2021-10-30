@@ -1,5 +1,5 @@
 # Python
-1. <b>25 hours</b> [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5733392)
+1. <b>25 hours</b> [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp)
 1. <b>34 hours</b> [The Python Mega Course: Build 10 Real World Applications](https://www.udemy.com/course/the-python-mega-course/)
 1. <b>18 hours</b> [The Complete Python 3 Course: Beginner to Advanced!](https://www.udemy.com/course/python-complete/)
 1. <b>67 hours</b> [Learn Python Programming Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course/)
@@ -7,19 +7,18 @@
 <br/><br/>
 
 # Machine Learning
-1. <b>8 hours</b> [Python-Introduction to Data Science and Machine learning A-Z](https://www.udemy.com/course/python-introduction-to-data-science-and-machine-learning-a-z/learn/lecture/21114388)
-1. <b>21 hours</b> [Data Science A-Z™: Real-Life Data Science Exercises Included](https://www.udemy.com/course/datascience/learn/lecture/3473798)
-1. <b>23 hours</b> [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/course/deeplearning/learn/lecture/6743222)
-1. <b>16 hours</b> [Artificial Intelligence A-Z™: Learn How To Build An AI](https://www.udemy.com/course/artificial-intelligence-az/learn/lecture/8829144)
-1. <b>45 hours</b> [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/learn/lecture/6087180)
+1. <b>8 hours</b> [Python-Introduction to Data Science and Machine learning A-Z](https://www.udemy.com/course/python-introduction-to-data-science-and-machine-learning-a-z)
+1. <b>21 hours</b> [Data Science A-Z™: Real-Life Data Science Exercises Included](https://www.udemy.com/course/datascience)
+1. <b>23 hours</b> [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/course/deeplearning)
+1. <b>16 hours</b> [Artificial Intelligence A-Z™: Learn How To Build An AI](https://www.udemy.com/course/artificial-intelligence-az)
+1. <b>45 hours</b> [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning)
 
 <br/><br/>
 
 # Core courses
 1. [A.I. From Zero to Hero - course in Polish](https://szkolachmury.pl/a-i-od-zera-do-bohatera/)
-1. [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 1. [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
-1. [The Data Science Course 2021: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/learn/lecture/10799982)
+1. [The Data Science Course 2021: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp)
 
 <br/><br/>
 
