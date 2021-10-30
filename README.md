@@ -1,133 +1,31 @@
-# Plan
-## Basic level: Python
-1. [The Python Mega Course: Build 10 Real World Applications](https://www.udemy.com/course/the-python-mega-course/)
-1. [The Complete Python 3 Course: Beginner to Advanced!](https://www.udemy.com/course/python-complete/)
-1. [Learn Python Programming Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course/)
+# Python
+1. <b>25 hours</b> [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5733392)
+1. <b>34 hours</b> [The Python Mega Course: Build 10 Real World Applications](https://www.udemy.com/course/the-python-mega-course/)
+1. <b>18 hours</b> [The Complete Python 3 Course: Beginner to Advanced!](https://www.udemy.com/course/python-complete/)
+1. <b>67 hours</b> [Learn Python Programming Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course/)
 
-## Core courses
-- [A.I. From Zero to Hero - course in Polish](https://github.com/DanBanasiak/30-Days-Of-MachineLearning/blob/master/resources.md#ai-from-zero-to-hero---course-in-polish)
-- [Python for Data Science and Machine Learning Bootcamp](https://github.com/DanBanasiak/30-Days-Of-MachineLearning/blob/master/resources.md#python-for-data-science-and-machine-learning-bootcamp)
-- [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://github.com/DanBanasiak/30-Days-Of-MachineLearning/blob/master/resources.md#machine-learning-a-z-hands-on-python--r-in-data-science)
+<br/><br/>
 
-## Aditional resources
-- [Machine Learning by Andrew Ng, Stanford University](https://github.com/DanBanasiak/30-Days-Of-MachineLearning/blob/master/resources.md#machine-learning-by-andrew-ng-stanford-university)
-- [How to Start Learning Data Science for Free](https://lambdaschool.com/the-commons/how-to-start-learning-data-science-for-free)
+# Machine Learning
+1. <b>8 hours</b> [Python-Introduction to Data Science and Machine learning A-Z](https://www.udemy.com/course/python-introduction-to-data-science-and-machine-learning-a-z/learn/lecture/21114388)
+1. <b>21 hours</b> [Data Science A-Z™: Real-Life Data Science Exercises Included](https://www.udemy.com/course/datascience/learn/lecture/3473798)
+1. <b>23 hours</b> [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/course/deeplearning/learn/lecture/6743222)
+1. <b>16 hours</b> [Artificial Intelligence A-Z™: Learn How To Build An AI](https://www.udemy.com/course/artificial-intelligence-az/learn/lecture/8829144)
+1. <b>45 hours</b> [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/learn/lecture/6087180)
+
+<br/><br/>
+
+# Core courses
+1. [A.I. From Zero to Hero - course in Polish](https://szkolachmury.pl/a-i-od-zera-do-bohatera/)
+1. [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+1. [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
+1. [The Data Science Course 2021: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/learn/lecture/10799982)
+
+<br/><br/>
+
+# Aditional resources
+1. [Machine Learning by Andrew Ng, Stanford University](https://github.com/DanBanasiak/30-Days-Of-MachineLearning/blob/master/resources.md#machine-learning-by-andrew-ng-stanford-university)
+1. [How to Start Learning Data Science for Free](https://lambdaschool.com/the-commons/how-to-start-learning-data-science-for-free)
+1. [Huge Most Valuable Github Repositories For Machine Learning](https://www.theinsaneapp.com/2021/09/best-github-repository-for-machine-learning.html)
 
 <br/><br/><br/>
-
-## [A.I. From Zero to Hero - course in Polish](https://szkolachmury.pl/a-i-od-zera-do-bohatera/)
-- 1: Introduction
-- 2: MACHINE LEARNING Basic
-- 3: MACHINE LEARNING Basic 2
-- 4: REGRESJA LINIOWA
-- 5: DRZEWA DECYZYJNE
-- 6: METODA K-ŚREDNICH ORAZ WEKTORÓW NOŚNYCH (SVM)
-- 7: SIECI NEURONOWE
-- 8: SIECI NEURONOWE CZĘŚĆ 2
-- 9: DEEP LEARNING i NLP
-- 10: KONWOLUCYJNE SIECI NEURONOWE (CNN)
-- 11: PRZEGLĄD ROZWIĄZAŃ CHMUROWYCH DLA ML
-- 12: PODSUMOWANIE KURSU
-- SEKCJA BONUSOWA
-
-<br/><br/>
-
-## [Machine Learning by Andrew Ng, Stanford University](https://www.coursera.org/learn/machine-learning)
-- Introduction
-- Linear Regression with One Variable
-- Linear Algebra Review
-- Linear Regression with Multiple Variables
-- Octave/Matlab Tutorial
-- Logistic Regression
-- Regularization
-- Neural Networks: Representation
-- Neural Networks: Learning
-- Advice for Applying Machine Learning
-- Machine Learning System Design
-- Support Vector Machines
-- Unsupervised Learning
-- Dimensionality Reduction
-- Anomaly Detection
-- Recommender Systems
-- Large Scale Machine Learning
-- Application Example: Photo OCR
-
-<br/><br/>
-
-## [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
-- Course Introduction
-- Environment Set-Up
-- Jupyter Overview
-- Python Crash Course
-- Python for Data Analysis - NumPy
-- Python for Data Analysis - Pandas
-- Python for Data Analysis - Pandas Exercises
-- Python for Data Visualization - Matplotlib
-- Python for Data Visualization - Seaborn
-- Python for Data Visualization - Pandas Built-in Data Visualization
-- Python for Data Visualization - Plotly and Cufflinks
-- Python for Data Visualization - Geographical Plotting
-- Data Capstone Project
-- Introduction to Machine Learning
-- Linear Regression
-- Cross Validation and Bias-Variance Trade-Off
-- Logistic Regression
-- K Nearest Neighbors
-- Decision Trees and Random Forests
-- Support Vector Machines
-- K Means Clustering
-- Principal Component Analysis
-- Recommender Systems
-- Natural Language Processing
-- Neural Nets and Deep Learning
-- Big Data and Spark with Python
-- BONUS SECTION: THANK YOU!
-
-<br/><br/>
-
-## [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
-- Welcome to the course!
-- 1: Data Preprocessing
-    - 3: Data Preprocessing in Python
-    - 4: Data Preprocessing in R
-- 2: Regression
-    - Simple Linear Regression
-    - Multiple Linear Regression
-    - Polynomial Regression
-    - Support Vector Regression (SVR)
-    - Decision Tree Regression
-    - Random Forest Regression
-    - Evaluating Regression Models Performance
-    - Regression Model Selection in Python
-    - Regression Model Selection in R
-- 3: Classification
-    - Logistic Regression
-    - K-Nearest Neighbors (K-NN)
-    - Support Vector Machine (SVM)
-    - Kernel SVM
-    - Naive Bayes
-    - Decision Tree Classification
-    - Random Forest Classification
-    - Classification Model Selection in Python
-    - Evaluating Classification Models Performance
-- 4: Clustering
-    - K-Means Clustering
-    - Hierarchical Clustering
-- 5: Association Rule Learning
-    - Apriori
-    - Eclat
-- 6: Reinforcement Learning
-    - Upper Confidence Bound (UCB)
-    - Thompson Sampling
-- 7: Natural Language Processing
-- 8: Deep Learning
-    - Artificial Neural Networks
-    - Convolutional Neural Networks
-- 9: Dimensionality Reduction
-    - Principal Component Analysis (PCA)
-    - Linear Discriminant Analysis (LDA)
-    - Kernel PCA
-- 10: Model Selection & Boosting
-    - Model Selection
-    - XGBoost
-- Bonus Lectures
