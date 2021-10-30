@@ -28,4 +28,7 @@
 1. [How to Start Learning Data Science for Free](https://lambdaschool.com/the-commons/how-to-start-learning-data-science-for-free)
 1. [Huge Most Valuable Github Repositories For Machine Learning](https://www.theinsaneapp.com/2021/09/best-github-repository-for-machine-learning.html)
 
-<br/><br/><br/>
+<br/><br/>
+
+# Data
+- [AWS Data Architect Bootcamp - 43 Services 500 FAQs 20+ Tools](https://www.udemy.com/course/aws-data-architect-bootcamp-training/)
